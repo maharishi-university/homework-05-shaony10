@@ -41,4 +41,5 @@ console.log('end');
 Make changes to provided test and use `async`/`await` instead of `.then()` and `.catch()`
 
 ## Coding Exercise 03
-Write an IIFE that fetch recipes from `https://dummyjson.com/recipes` and print to the console a list of recipe names.
+Write an IIFE that fetch recipes from `https://dummyjson.com/recipes` and print to the console a list of recipe names.  
+Make sure you [type the response](https://transform.tools/json-to-typescript). 
