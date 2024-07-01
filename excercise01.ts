@@ -13,7 +13,7 @@ export class Meditation {
             setTimeout(() => {
                 console.log(count);
                 this.printvalues(count - 1);
-            }, 0);
+            }, 1000);
         } else {
             console.log('Jay Guru Dev');
         }
