@@ -1,6 +1,6 @@
 import { Meditation } from "./excercise01";
 import { testIsPrime, testIsPrimeAsync } from "./excercise02";
-import { DataResponse, fetchData } from "./excercise03";
+import { DataResponse } from "./excercise03";
 
 ///// Excercise 01 testing
 /*
